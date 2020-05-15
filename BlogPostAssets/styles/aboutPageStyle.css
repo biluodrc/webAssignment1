@@ -1,0 +1,42 @@
+.glass {
+	position: absolute;
+	left: 50%;
+	top: 5%;
+	margin-left: -300px;
+	width: 500px;
+	color: rgba(255,255,255,1);
+}
+.AutorInfoPosition {
+	position: absolute;
+	left: 50%;
+	top: 5%;
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: -260px;
+	width: 500px;
+	background-color: rgba(255,255,255,0.5);
+	margin-top: 46px;
+	text-align: center;
+	border-radius: 10%;
+}
+.HeadSculpture {
+	float: none;
+	overflow: hidden;
+	border-radius: 50%;
+	box-shadow: 5px 5px 3px #888888;
+}
+.Name {
+	font-size: 50px;
+	font-weight: bold;
+	text-decoration: none;
+	color: rgb(3,35,14);
+	text-shadow: 3px 3px 5px #656B79;
+}
+.Motto {
+	text-align: center;
+	color: #8799a3;
+}
+h3 {
+	color: rgb(98,65,24);
+}
